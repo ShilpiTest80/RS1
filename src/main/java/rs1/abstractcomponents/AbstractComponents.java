@@ -40,6 +40,7 @@ public class AbstractComponents {
         return cartPage;
         //Changes
         //Changes made in github
+        //Changes made after review: this comment added
     }
 
 }

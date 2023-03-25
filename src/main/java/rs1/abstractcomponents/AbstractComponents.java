@@ -38,6 +38,7 @@ public class AbstractComponents {
         cartHeader.click();
         CartPage cartPage = new CartPage(driver);
         return cartPage;
+        //Changes
     }
 
 }

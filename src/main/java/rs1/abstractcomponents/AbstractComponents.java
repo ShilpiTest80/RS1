@@ -39,6 +39,8 @@ public class AbstractComponents {
         CartPage cartPage = new CartPage(driver);
         return cartPage;
         //Changes
+        //Changes made in github
+        //Changes made after review: this comment added
     }
 
 }
